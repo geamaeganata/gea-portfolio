@@ -79,7 +79,7 @@ function App() {
               Virtual Assistant • Listing Support • Finance • Marketing • Video Editing
             </p>
             <h1 className="max-w-3xl text-5xl font-bold tracking-tight text-white sm:text-6xl lg:text-7xl">
-              Organized support that keeps real estate work moving.
+              Organized support that keeps your real estate work moving.
             </h1>
             <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-300">
               I help busy teams stay on top of listings, finance tasks, marketing details, admin workflows, and YouTube podcast content so nothing slips through the cracks.
